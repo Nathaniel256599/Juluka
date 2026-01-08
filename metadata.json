@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JULUKA Sneaker Care",
+  "description": "Professional sneaker management and care system for JULUKA. Track client orders, automate bulk pricing, and manage your cleaning pipeline.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
